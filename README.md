@@ -1,3 +1,12 @@
+---
+layout: post
+title: 登山游戏-7人组
+tags: 游戏
+date: 2018-08-16 19:27:21 +0800
+category: game
+---
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/cnhewin/game/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
@@ -6,7 +15,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Game
 
-[登山游戏](/game/_posts/2018-08-16-climb-game-seven)
+[登山游戏](/game/2018-08-16-climb-game-seven/)
 
 ### Markdown
 
