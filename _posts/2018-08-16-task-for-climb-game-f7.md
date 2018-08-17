@@ -11,7 +11,7 @@ category: game
 
 您的团队按照下图所示排成一个队列。
 
-![登山团队](/img/organization-for-climb-seven.JPG)
+![登山团队](/game/img/organization-for-climb-seven.JPG)
 
 
 ### 活动规则：
@@ -28,4 +28,4 @@ category: game
 
 - 如果您有任何问题，请举手示意
 
-![成员F设备](/img/climb-devices-fz.JPG)
+![成员F设备](/game/img/climb-devices-fz.JPG)

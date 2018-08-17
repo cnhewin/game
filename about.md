@@ -7,7 +7,7 @@ summary: "About me"
 active: about
 ---
 
-<img name='name_cn' style="width=100px; height:80px;"  src="{{ site.images }}/name_cn.png" />
+![Alexhuang](/img/name_cn.png)
 
 ### Alex Huang
 

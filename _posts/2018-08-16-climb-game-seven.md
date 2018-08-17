@@ -14,14 +14,14 @@ category: game
 
 [成员A任务](/game/game/task-for-climb-game-a7/)
 
-[成员B任务](/game/task-for-climb-game-b7/)
+[成员B任务](/game/game/task-for-climb-game-b7/)
 
-[成员C任务](/game/task-for-climb-game-c7/)
+[成员C任务](/game/game/task-for-climb-game-c7/)
 
-[成员D任务](/game/task-for-climb-game-d7/)
+[成员D任务](/game/game/task-for-climb-game-d7/)
 
-[成员E任务](/game/task-for-climb-game-e7/)
+[成员E任务](/game/game/task-for-climb-game-e7/)
 
-[成员F任务](/game/task-for-climb-game-f7/)
+[成员F任务](/game/game/task-for-climb-game-f7/)
 
-[成员G任务](/game/task-for-climb-game-g7/)
+[成员G任务](/game/game/task-for-climb-game-g7/)

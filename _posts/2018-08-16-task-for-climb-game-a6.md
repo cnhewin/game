@@ -12,7 +12,7 @@ category: game
 
 您的团队按照下图所示排成一个队列。
 
-![登山团队](/img/organization-for-climb-six.JPG) 
+![登山团队](/game/img/organization-for-climb-six.JPG) 
 
 在每位团队成员手中所持的任务说明单底部都印有一组登山设备的图片。
 
@@ -32,4 +32,4 @@ category: game
 
 - 如果您有任何问题，请举手示意
 
-![成员A设备](/img/climb-devices-az.JPG)
+![成员A设备](/game/img/climb-devices-az.JPG)
