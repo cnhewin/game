@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/cnhewin/game/edit/gh-pages
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Game
+
+[登山游戏](/game/_posts/2018-08-16-climb-game-seven)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
