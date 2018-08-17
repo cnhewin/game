@@ -7,7 +7,7 @@ summary: "About me"
 active: about
 ---
 
-![Alexhuang](/game/img/name_cn.JPG)
+![Name_cn](/game/img/name_cn.JPG)
 
 ### Alex Huang
 
