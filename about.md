@@ -7,7 +7,7 @@ summary: "About me"
 active: about
 ---
 
-![Alexhuang](/img/name_cn.png)
+![Alexhuang](/game/img/name_cn.png)
 
 ### Alex Huang
 
@@ -20,4 +20,4 @@ Currently I am focusing on **R&D Management**.
 
 You can also find me here:
 
-![Alexhuang](/img/wechat_contact.jpg)
+![Alexhuang](/game/img/wechat_contact.jpg)
