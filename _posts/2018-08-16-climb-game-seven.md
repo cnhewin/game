@@ -12,7 +12,7 @@ category: game
 
 务必记住，不得登录其他成员的网页！！
 
-[成员A任务](/game/task-for-climb-game-a7/)
+[成员A任务](/game/game/task-for-climb-game-a7/)
 
 [成员B任务](/game/task-for-climb-game-b7/)
 
